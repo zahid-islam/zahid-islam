@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ASP.NET, ASP.NET Core, Angular and SQL**
 
-- 📫 How to reach me **zahid1132@gmail.com or 01736155653**
+- 📫 How to reach me ** Email : zahid1132@gmail.com or Mobile : 01736155653**
 
 - 📄 Know about my experiences [https://zahid-islam.github.io/resume/](https://zahid-islam.github.io/resume/)
 
