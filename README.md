@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Email : zahid1132@gmail.com or Mobile : 01736155653**
 
-- 📄 Know about my experiences [https://zahid-islam.github.io/resume/](https://zahid-islam.github.io/resume/)
+- 📄 Know about my experiences [https://zahid-islam.github.io/resume/](https://github.com/zahid-islam/resume/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
