@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available here at [https://github.com/zahid-islam?tab=repositories](https://github.com/zahid-islam?tab=repositories)
 
-- 📝 Resume download link [https://github.com/zahid-islam/resume/raw/main/Mozahedul%20Islam.pdf](https://github.com/zahid-islam/resume/raw/main/Mozahedul%20Islam.pdf)
+- 📝 Resume download link [https://github.com/zahid-islam/resume/raw/main/Mozahedul%20Islam.pdf](https://github.com/zahid-islam/resume/raw/main/Mozahedul%5FIslam.pdf)
 
 - 💬 Ask me about **ASP.NET, ASP.NET Core, Angular and SQL, MySQL, Javascript, Object Oriented Programming, SOLID Principles**
 
