@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mozahedul Islam</h1>
-<h3 align="center">A passionate Full Stack Web Developer(ASP.NET) with almost 6 years in analysis, design and implementation of various Web-based applications from Bangladesh.</h3>
+<h3 align="center">A passionate Full Stack Web Developer(ASP.NET) with almost 9 years experience in analysis, design and implementation of various Web-based full-stack applications from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **Garments Accessories ERP**
+- 🔭 I’m currently working on **Membership Registration System** a Canadian project based on various games like Softball, Volleyball etc.
 
-- 🌱 I’m currently learning **Microservice, Docker and Kubernetes**
+- 🌱 I’m currently learning **Microservice, Docker and AWS**
 
 - 👨‍💻 Some of my projects are available here at [https://github.com/zahid-islam?tab=repositories](https://github.com/zahid-islam?tab=repositories)
 
 - 📝 Resume download link [https://github.com/zahid-islam/resume/raw/main/Mozahedul%20Islam.pdf](https://github.com/zahid-islam/resume/raw/main/Mozahedul%20Islam.pdf)
 
-- 💬 Ask me about **ASP.NET, ASP.NET Core, Angular and SQL**
+- 💬 Ask me about **ASP.NET, ASP.NET Core, Angular and SQL, MySQL, Javascript, Object Oriented Programming, SOLID Principles**
 
-- 📫 How to reach me **Email : zahid1132@gmail.com or Mobile : 01736155653**
+- 📫 How to reach me **Email : zahid1132@gmail.com**
 
 - 📄 Know about my experiences [https://zahid-islam.github.io/resume/](https://zahid-islam.github.io/resume/)
 
