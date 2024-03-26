@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mozahedul Islam</h1>
 <h3 align="center">A passionate Full Stack Web Developer(ASP.NET) with almost 9 years experience in analysis, design and implementation of various Web-based full-stack applications from Bangladesh.</h3>
 
-- 🔭 I’m currently working on **Membership Registration System** a Canadian project based on various games like Softball, Volleyball etc.
+- 🔭 I’m currently working on **Membership Registration System** a Canadian project based on various games like Softball, Volleyball
 
 - 🌱 I’m currently learning **Microservice, Docker and AWS**
 
